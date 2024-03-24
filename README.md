@@ -1,4 +1,5 @@
-# Hi i am Aniruddha Pandey 👋
+# Hi there, I'm Aniruddha Pandey - aka Decoder 👋
+
 
 ## About Me
 - Hey there! 👋 I'm a passionate software developer with a keen interest in creating innovative solutions to real-world problems. 
