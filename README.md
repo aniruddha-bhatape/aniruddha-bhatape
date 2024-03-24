@@ -1,11 +1,26 @@
-- 👋 Hi, I’m Aniruddha Pandey
-- I am currently working with Bharatpe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Aniruddha Pandey
+
+## About Me
+- Hey there! 👋 I'm a passionate software developer with a keen interest in creating innovative solutions to real-world problems. 
+- My expertise lies in Backend-Development and I'm always eager to learn and adapt to new technologies and methodologies.
+
+
+## Contact Me
+- 📧 Email: [aniruddha.pandey.ext@bharatpe.com](mailto:aniruddha.pandey.ext@bharatpe.com)
+- 🌐 Website: [ani-profile.web.app](https://ani-profile.web.app/)
+
+
+## Interests
+- Cricket 🏏
+- Badminton 🏸
+
+
+## Fun Facts
+- I can solve a Rubik's Cube in under a minute!
+- I'm a certified scuba diver.
+
+
+
 
 <!---
 aniruddha-bhatape/aniruddha-bhatape is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
