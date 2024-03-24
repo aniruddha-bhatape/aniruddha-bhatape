@@ -1,4 +1,4 @@
-# Hi there, I'm Aniruddha Pandey - aka Decoder 👋
+# Hi there, I'm Aniruddha Pandey - aka [Decoder](https://github.com/Lucifer-00007) 👋
 
 
 ## About Me
