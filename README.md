@@ -18,7 +18,7 @@
 
 ## Fun Facts
 - I can solve a Rubik's Cube in under a minute!
-- I'm a certified scuba diver.
+- I'm a cyber security enthusiast.
 
 
 
